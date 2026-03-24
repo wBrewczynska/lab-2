@@ -1,0 +1,5 @@
+Patient: Jane Dog
+Age: 45
+Blood pressure: 118/76mmHg
+Heart rate: 72 bpm
+Notes: Regular checkup
